@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ITECH7201Assignment1.Food">
+    <Position X="1.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAEAQAAAAAFEAAAAAAAAAAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Food.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ITECH7201Assignment1.Pasta">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAGAAAAAAQACAAAAAQAAAAAAAAAAAAAEBAAAAAA=</HashCode>
+      <FileName>Pasta.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ITECH7201Assignment1.Pizza">
+    <Position X="3.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAGAAAAAAQACAAAAAQAAAAAAAAAAAAAEBAAAAAA=</HashCode>
+      <FileName>Pizza.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="ITECH7201Assignment1.IAction">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQACAAAAAQAAAAAAAAAAAAAEBAAAAAA=</HashCode>
+      <FileName>IAction.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
